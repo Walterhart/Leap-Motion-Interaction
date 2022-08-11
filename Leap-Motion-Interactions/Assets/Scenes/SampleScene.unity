@@ -160,8 +160,12 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7930104221805218298, guid: 0e835643e9fcf4f4689175b5edd299b6, type: 3}
+      propertyPath: spawnerSetActive
+      value: 
+      objectReference: {fileID: 1819545468}
+    - target: {fileID: 7930104221805218298, guid: 0e835643e9fcf4f4689175b5edd299b6, type: 3}
       propertyPath: maxAmountOfObjects
-      value: 1
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 7930104221805218298, guid: 0e835643e9fcf4f4689175b5edd299b6, type: 3}
       propertyPath: spawnObjects.Array.size
@@ -326,7 +330,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 472223809}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.074, y: -0.669, z: -1.858}
+  m_LocalPosition: {x: -0.027, y: -0.93, z: -1.553}
   m_LocalScale: {x: 1, y: 0.82424, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

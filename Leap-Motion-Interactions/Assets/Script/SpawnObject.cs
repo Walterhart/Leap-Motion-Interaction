@@ -6,6 +6,7 @@ public class SpawnObject : MonoBehaviour
 {
     public GameObject spawnObject;
     public int maxAmountOfObjects;
+    public GameObject spawnerSetActive;
     public List<GameObject> objectList = new List<GameObject>();
     private float timeLeft, originalTime;
     // Update is called once per frame
@@ -20,7 +21,10 @@ public class SpawnObject : MonoBehaviour
             timeLeft = originalTime;
             Spawn();
         }
-    
+        spawnerSetActive.SetActive(false);
+
+
+
     }
 
     void Spawn()
