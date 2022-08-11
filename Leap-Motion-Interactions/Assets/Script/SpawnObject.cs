@@ -31,7 +31,7 @@ public class SpawnObject : MonoBehaviour
     {
         if(objectList.Count < maxAmountOfObjects)
         {
-            objectList.Add(Instantiate(spawnObject));
+            objectList.Add(Instantiate(spawnObject, transform.position,transform.rotation));
             Debug.Log("SpawnCount : " + objectList);
         }
         
