@@ -180,3 +180,402 @@ Received Import Request.
   path: Packages/com.ultraleap.tracking.openxr/package.json
   artifactKey: Guid(7ae488b8b97600a41a2502d6f7726cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.ultraleap.tracking.openxr/package.json using Guid(7ae488b8b97600a41a2502d6f7726cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f8a73461246f4097670bca90fc8c65') in 0.007791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 92.418783 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57e518cbcaead9a08a32ceb676d48ff') in 0.005006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.407100 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Height.png
+  artifactKey: Guid(a9a18e51e0222fb4e94e3e74aa5374ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Height.png using Guid(a9a18e51e0222fb4e94e3e74aa5374ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8138d834b6e4c0de7c9e46b9a2c0e91') in 0.244949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure red/Dice_d6_Metallic.png
+  artifactKey: Guid(e91c267c6ca4ef64fb31a75cabed0ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure red/Dice_d6_Metallic.png using Guid(e91c267c6ca4ef64fb31a75cabed0ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e329905cf7bc0477e89110851489be7e') in 0.071217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Metallic.png
+  artifactKey: Guid(cf269553411a6c1488fd9a1f6fd2f4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Metallic.png using Guid(cf269553411a6c1488fd9a1f6fd2f4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca8dd5c4a36bcb62b2fca2a72629526') in 0.019178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure red/Dice_d6_Roughness.png
+  artifactKey: Guid(f7344cc86b10aa14db48cbaeec5b5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure red/Dice_d6_Roughness.png using Guid(f7344cc86b10aa14db48cbaeec5b5693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689f9484279460ed4e18555c9ace44dd') in 0.009751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure red/Dice_d6_Metallic.png
+  artifactKey: Guid(2b118882b518aec4faa851fb591980cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure red/Dice_d6_Metallic.png using Guid(2b118882b518aec4faa851fb591980cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae11ceb20dbd58c830f9d97145266f99') in 0.010614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Metallic.png
+  artifactKey: Guid(17a13ecadd7c3f24898c70ae1cca6c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Metallic.png using Guid(17a13ecadd7c3f24898c70ae1cca6c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c341d76d024396ddc01775c17abf8439') in 0.005627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Normal.png
+  artifactKey: Guid(0a54f3c455c17ed40a7d079bd269cec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Normal.png using Guid(0a54f3c455c17ed40a7d079bd269cec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d6d34692797b589018b4105dab1b1a') in 0.024965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Normal.png
+  artifactKey: Guid(9328d0bc35ab9d64bb6c2b225c266347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Normal.png using Guid(9328d0bc35ab9d64bb6c2b225c266347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935d95e81a402aa13665d892614a67be') in 0.053461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Roughness.png
+  artifactKey: Guid(71ce7d535ca02be48996a5180f8eee0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Roughness.png using Guid(71ce7d535ca02be48996a5180f8eee0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fccf27515a1fa0f10c42c0d81ecbe1f') in 0.054271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Roughness.png
+  artifactKey: Guid(efdec088b171a774e91dc827960ea8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Roughness.png using Guid(efdec088b171a774e91dc827960ea8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcaa1d3f82be3bc0de15911ec4d447f8') in 0.008842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Height.png
+  artifactKey: Guid(68aad4f4d20bd1743a2e53237e0b511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Height.png using Guid(68aad4f4d20bd1743a2e53237e0b511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87a2da115b81916f52e8b3ecc382f9c') in 0.004429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Metallic.png
+  artifactKey: Guid(02330fb06c524464daf63e7d0f7bf727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Metallic.png using Guid(02330fb06c524464daf63e7d0f7bf727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4ca4d86cdc865a3fc20f8abadc3570') in 0.005201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Metallic.png
+  artifactKey: Guid(fb8218d0d35c49843a9e094fd1c3a6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Metallic.png using Guid(fb8218d0d35c49843a9e094fd1c3a6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3274cfaa47aa39d1347a04371c122f98') in 0.007109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure red/Dice_d6_Normal.png
+  artifactKey: Guid(2ca14b50f1f755a4389c2ebf4144819f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure red/Dice_d6_Normal.png using Guid(2ca14b50f1f755a4389c2ebf4144819f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b181a2c07f558fb1e1ebb2e5b61228c') in 0.007296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Normal.png
+  artifactKey: Guid(5711f172a6cdb854d9d35353b1024400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure blue/Dice_d6_Normal.png using Guid(5711f172a6cdb854d9d35353b1024400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94290fe605ec4cfd85ac856ffdaa2066') in 0.007352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Height.png
+  artifactKey: Guid(05b565f050f3fd747b13b0eb38c673fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Height.png using Guid(05b565f050f3fd747b13b0eb38c673fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a35f519e22794747015dbd75b42bcb9') in 0.008272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Roughness.png
+  artifactKey: Guid(e14bb25fd4e06ab419689e5f58b7b2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Roughness.png using Guid(e14bb25fd4e06ab419689e5f58b7b2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d754a725913ec20cd8a0091e969280') in 0.008708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Roughness.png
+  artifactKey: Guid(32ed9170035850945a9338278c916455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure write/Dice_d6_Roughness.png using Guid(32ed9170035850945a9338278c916455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30a0b919aee8180ff6d9918334e1c36') in 0.004414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Roughness.png
+  artifactKey: Guid(b8e1d0bc2e275a243ba7235af1c572c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure blue/Dice_d6_Roughness.png using Guid(b8e1d0bc2e275a243ba7235af1c572c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed62d472c03edea6dc78a55146813dcf') in 0.005138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Normal.png
+  artifactKey: Guid(977ffd0b5c26bd04398f17e71c45be3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Normal.png using Guid(977ffd0b5c26bd04398f17e71c45be3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c0b00f8d021b587bc3f1ae34fa70b3') in 0.009348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Metallic.png
+  artifactKey: Guid(30765fa1978fe244fb3f467caad5e93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched red/Dice_d6_Metallic.png using Guid(30765fa1978fe244fb3f467caad5e93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9a434137e1856be770e561f6e6cd65') in 0.006763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Metallic.png
+  artifactKey: Guid(a3cd66d0e2aca2f46adad530c613dba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Metallic.png using Guid(a3cd66d0e2aca2f46adad530c613dba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c209e7be06b21b003b027a653bb68b21') in 0.022804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Normal.png
+  artifactKey: Guid(7ae29913566db274285a08e9df5661bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Normal.png using Guid(7ae29913566db274285a08e9df5661bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e257fe6b19b92111604518be29cd954b') in 0.041994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Roughness.png
+  artifactKey: Guid(84b090d050288ea4c914df2bb2a08440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Roughness.png using Guid(84b090d050288ea4c914df2bb2a08440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55a09a22d66959d7d9f0178f792ddb6') in 0.005814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Normal.png
+  artifactKey: Guid(30979f4a80ac5e0448471703388fe7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Normal.png using Guid(30979f4a80ac5e0448471703388fe7f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2147d3b4bf9db685d764ccd30b1eaf0b') in 0.010066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Roughness.png
+  artifactKey: Guid(fed344d4f6c76fb4fb050c1029a0e37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Roughness.png using Guid(fed344d4f6c76fb4fb050c1029a0e37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50270b29e1cc402aa8bde7444360a0e3') in 0.052090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Metallic.png
+  artifactKey: Guid(0fdd16cdaff3e2d44bc972f1238f101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched red/Dice_d6_Metallic.png using Guid(0fdd16cdaff3e2d44bc972f1238f101a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd019a98010d11a3606527781d426b2') in 0.005231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Roughness.png
+  artifactKey: Guid(2a138f60939fa204eb93fdb353cfc92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Roughness.png using Guid(2a138f60939fa204eb93fdb353cfc92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c19c5530a80a98b0095f6653875740a') in 0.007410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Normal.png
+  artifactKey: Guid(bbd1d9ce7df34e84fa146a2789b3fe9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure write/Dice_d6_Normal.png using Guid(bbd1d9ce7df34e84fa146a2789b3fe9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b4d7aff3a8d27a47fc8b05428fd7a7') in 0.008835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Metallic.png
+  artifactKey: Guid(a83ddf3f35cbf824d886d1ce420c2845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Rough Scratched blue/Dice_d6_Metallic.png using Guid(a83ddf3f35cbf824d886d1ce420c2845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95fa4aa8b78ee69da9e42025c3cab26') in 0.006416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure red/Dice_d6_Normal.png
+  artifactKey: Guid(29e19b7297a3d294995c8880a0e8113f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/2k/Plastic Glossy Pure red/Dice_d6_Normal.png using Guid(29e19b7297a3d294995c8880a0e8113f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c7ee2f51895eca5a19e12e81c764b4') in 0.010185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Normal.png
+  artifactKey: Guid(c40c6aae9907fd246893b707aa3978b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Rough Scratched blue/Dice_d6_Normal.png using Guid(c40c6aae9907fd246893b707aa3978b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7ad800cba56b4c172242b3428ae013') in 0.007049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure red/Dice_d6_Roughness.png
+  artifactKey: Guid(75264972ce70b8e4dae805d3a6b96859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Dice_6/Textures/512/Plastic Glossy Pure red/Dice_d6_Roughness.png using Guid(75264972ce70b8e4dae805d3a6b96859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fa666524d0be2527f3820224a126de') in 0.004470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.360723 seconds.
+  path: Packages/com.ultraleap.dependencytoolkit/package.json
+  artifactKey: Guid(96d527cb6dd37db4593ded35772a9056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.dependencytoolkit/package.json using Guid(96d527cb6dd37db4593ded35772a9056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b48c45a405da6c0d6e982687c0ff22c') in 0.002169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.039101 seconds.
+  path: Packages/com.ultraleap.tracking/package.json
+  artifactKey: Guid(ce2e1518d48af044696b0ea5aca137a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/package.json using Guid(ce2e1518d48af044696b0ea5aca137a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd328d1840b89586d785571178cb8f663') in 0.001956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.588986 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d1f12f0f4420a8b9dea50868bbb5d0') in 0.021780 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006598 seconds.
+Begin MonoManager ReloadAssembly
+The file 'MemoryStream' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+Fatal Error! The file 'MemoryStream' is corrupted! Remove it and launch unity again!
+[Position out of bounds!]
+Crash!!!
+SymInit: Symbol-SearchPath: 'D:/Unity/2020.3.30f1/Editor/Data/Mono;.;D:\github\Leap-Motion-Interaction\Leap-Motion-Interactions;D:\Unity\2020.3.30f1\Editor;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'boomy'
+OS-Version: 10.0.0
+D:\Unity\2020.3.30f1\Editor\Unity.exe:Unity.exe (00007FF698FD0000), size: 83312640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.3.30.45503
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFDAF170000), size: 2064384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFDADAF0000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFDACDB0000), size: 2940928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1826
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (00007FFDACC20000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFDACAD0000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFDADBB0000), size: 1703936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFDACD80000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1826
+D:\Unity\2020.3.30f1\Editor\OpenImageDenoise.dll:OpenImageDenoise.dll (00007FFCF9FC0000), size: 43806720 (result: 0), SymType: '-deferred-', PDB: ''
+D:\Unity\2020.3.30f1\Editor\optix.6.0.0.dll:optix.6.0.0.dll (00007FFD9EF00000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.0.0.0
+D:\Unity\2020.3.30f1\Editor\libfbxsdk.dll:libfbxsdk.dll (00007FFD0B590000), size: 10215424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2020.2.0.0
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFDAD640000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFDAC9C0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFDAC920000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.789
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFDADFB0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+D:\Unity\2020.3.30f1\Editor\umbraoptimizer64.dll:umbraoptimizer64.dll (00007FFD80AC0000), size: 1306624 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFDAE330000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.546
+D:\Unity\2020.3.30f1\Editor\FreeImage.dll:FreeImage.dll (0000000180000000), size: 6582272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.18.0.0
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFDAE060000), size: 438272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFDAE9C0000), size: 7618560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFDADE80000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFDAD670000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFDAD710000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\WLDAP32.dll:WLDAP32.dll (00007FFDADA90000), size: 352256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1766
+D:\Unity\2020.3.30f1\Editor\ispc_texcomp.dll:ispc_texcomp.dll (00007FFD21490000), size: 1609728 (result: 0), SymType: '-deferred-', PDB: ''
+D:\Unity\2020.3.30f1\Editor\WinPixEventRuntime.dll:WinPixEventRuntime.dll (00007FFDA9F90000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.1812.6001
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFDADD50000), size: 1220608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1202
+C:\Windows\System32\Normaliz.dll:Normaliz.dll (00007FFDAE0E0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\combase.dll:combase.dll (00007FFDAE3D0000), size: 3489792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FFDADA60000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFDAD1D0000), size: 4648960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFDACBD0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+D:\Unity\2020.3.30f1\Editor\tbb.dll:tbb.dll (00007FFD9ECB0000), size: 413696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2017.0.2016.1004
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (00007FFDAD1A0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1023
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFDAE730000), size: 839680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.985
+C:\Windows\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFD9CF60000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.31.31103.0
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (00007FFDAD080000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFD5B420000), size: 1208320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFD96990000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFDABCF0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FFD96170000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.40649.5
+C:\Windows\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FFD8F550000), size: 978944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.40649.5
+C:\Windows\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFD9CFE0000), size: 581632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.31.31103.0
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFDA1550000), size: 1089536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFDA33C0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FFDAB150000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+D:\Unity\2020.3.30f1\Editor\RadeonImageFilters.dll:RadeonImageFilters.dll (00007FFD203D0000), size: 2535424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.1.0
+D:\Unity\2020.3.30f1\Editor\SketchUpAPI.dll:SketchUpAPI.dll (00007FFD0AD00000), size: 8978432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.753.0
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFDA5340000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FFD9CF80000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1
+D:\Unity\2020.3.30f1\Editor\SketchUpCommonPreferences.dll:SketchUpCommonPreferences.dll (00007FFD9ED20000), size: 483328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 19.0.753.20342
+C:\Windows\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFD9CF00000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 14.31.31103.0
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FFD9CE20000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFDAC750000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1586
+D:\Unity\2020.3.30f1\Editor\OpenRL.dll:OpenRL.dll (000002A244BB0000), size: 12779520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.0.2907
+C:\Windows\SYSTEM32\MSVCP100.dll:MSVCP100.dll (000000006A4D0000), size: 622592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.40219.325
+C:\Windows\SYSTEM32\MSVCR100.dll:MSVCR100.dll (000000006A3F0000), size: 860160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.40219.325
+D:\Unity\2020.3.30f1\Editor\embree.dll:embree.dll (00007FFD09D10000), size: 16711680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.14.0.0
+C:\Windows\SYSTEM32\MSWSOCK.DLL:MSWSOCK.DLL (00007FFDAC050000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+D:\Unity\2020.3.30f1\Editor\OpenRL_pthread.dll:OpenRL_pthread.dll (000002A245800000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.9.0.0
+C:\Windows\SYSTEM32\MSASN1.dll:MSASN1.dll (00007FFDAC480000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFDAA7B0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFDAC890000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FFDAA230000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFDAE910000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFDAA9B0000), size: 7946240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\Wldp.dll:Wldp.dll (00007FFDAC2F0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\profapi.dll:profapi.dll (00007FFDAC7D0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.844
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFDAE860000), size: 692224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\Windows\System32\netprofm.dll:netprofm.dll (00007FFDA7E70000), size: 253952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Windows\System32\NSI.dll:NSI.dll (00007FFDADA50000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.610
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFDA6770000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\npmproxy.dll:npmproxy.dll (00007FFDA6CF0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFDA6D00000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFDABD40000), size: 831488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFD9BEE0000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFDA3520000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+D:\Unity\2020.3.30f1\Editor\Data\Tools\astcenc-avx2.dll:astcenc-avx2.dll (00007FFD96310000), size: 557056 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFDA85B0000), size: 2502656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFDAB190000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_4a922d3e93437ff6\nvldumdx.dll:nvldumdx.dll (00007FFD9F760000), size: 1142784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.1659
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFDA36C0000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.906
+C:\Windows\SYSTEM32\drvstore.dll:drvstore.dll (00007FFDA3530000), size: 1343488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\SYSTEM32\devobj.dll:devobj.dll (00007FFDAC640000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFDAC260000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FFDAF110000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1415
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFDAC240000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFDAB960000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1052
+C:\Windows\System32\DriverStore\FileRepository\nvmdi.inf_amd64_4a922d3e93437ff6\nvwgf2umx.dll:nvwgf2umx.dll (00007FFD74600000), size: 44015616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.1659
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FFD332C0000), size: 2912256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.25.1.27
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFDAB590000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\dxcore.dll:dxcore.dll (00007FFDA3680000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFDA33F0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFDA3210000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFDA2780000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1320
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFDA27A0000), size: 1093632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\SYSTEM32\amsi.dll:amsi.dll (00007FFDA2450000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1620
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFDAC790000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.572
+C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\MpOav.dll:MpOav.dll (00007FFDA23D0000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.18.2205.7
+D:\Unity\2020.3.30f1\Editor\cudart64_90.dll:cudart64_90.dll (00007FFD8FFB0000), size: 397312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.14.11.9000
+C:\Windows\SYSTEM32\opencl.dll:opencl.dll (00007FFD69120000), size: 1474560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.0.1.0
+D:\Unity\2020.3.30f1\Editor\radeonrays.dll:radeonrays.dll (00007FFD8FF20000), size: 552960 (result: 0), SymType: '-deferred-', PDB: ''
+D:\Unity\2020.3.30f1\Editor\Data\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFD20D20000), size: 7794688 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFDAE0D0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\ProgramData\Microsoft\VisualStudio\Setup\x64\Microsoft.VisualStudio.Setup.Configuration.Native.dll:Microsoft.VisualStudio.Setup.Configuration.Native.dll (00007FFD92A30000), size: 327680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.1.2200.53929
+D:\github\Leap-Motion-Interaction\Leap-Motion-Interactions\Library\PackageCache\com.unity.xr.openxr@1.3.1\Runtime\windows\x64\UnityOpenXR.dll:UnityOpenXR.dll (00007FFD82870000), size: 651264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.3.1.0
+C:\Windows\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFDA9B00000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.19041.1741
+C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll:comctl32.dll (00007FFD9E6A0000), size: 2727936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.19041.1110
+C:\Windows\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFDA5EE0000), size: 1785856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\thumbcache.dll:thumbcache.dll (00007FFD88390000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\policymanager.dll:policymanager.dll (00007FFDA6E50000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (00007FFDAB9F0000), size: 565248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\MrmCoreR.dll:MrmCoreR.dll (00007FFD9EB00000), size: 999424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1566
+C:\Windows\System32\iertutil.dll:iertutil.dll (00007FFDA1C00000), size: 2822144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.19041.1806
+C:\Windows\SYSTEM32\windows.staterepositorycore.dll:windows.staterepositorycore.dll (00007FFDA23B0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1466
+C:\Windows\System32\bcp47mrm.dll:bcp47mrm.dll (00007FFD8D9B0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1503
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFD8DDF0000), size: 1314816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\WindowManagementAPI.dll:WindowManagementAPI.dll (00007FFDA6680000), size: 659456 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\System32\TextInputFramework.dll:TextInputFramework.dll (00007FFD8DCF0000), size: 1019904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\InputHost.dll:InputHost.dll (00007FFD8DF60000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1741
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFDA7FD0000), size: 1392640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1682
+C:\Windows\SYSTEM32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFDA6480000), size: 2097152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (00007FFDA97B0000), size: 991232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.746
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFDA90D0000), size: 3530752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1706_none_919e8e54cc8d4ca1\gdiplus.dll:gdiplus.dll (00007FFD9E940000), size: 1724416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1706
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFDAD8B0000), size: 1134592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1806
+C:\Windows\SYSTEM32\edputil.dll:edputil.dll (00007FFD88360000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.546
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FFDA0F70000), size: 1335296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.1466
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFD9BF60000), size: 1982464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.19041.867
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFDACDE4FD9 (KERNELBASE) RaiseException
+0x00007FF69A706CAD (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF69A707C3A (Unity) EditorMonoConsole::LogToConsoleImplementation
+0x00007FF69B6BB4BE (Unity) DebugStringToFilePostprocessedStacktrace
+0x00007FF69B6BAA5F (Unity) DebugStringToFile
+0x00007FF699BC1F0E (Unity) CachedReader::OutOfBoundsError
+0x00007FF699BC2CD4 (Unity) CachedReader::UpdateReadCache
+0x00007FF699DF3AC6 (Unity) ExecuteSerializationCommands<SafeBinaryRead>
+0x00007FF699E026AE (Unity) TransferScriptingObject<StreamedBinaryRead,0>
+0x00007FF699E15D3C (Unity) SerializableManagedRefTransfer::TransferBinaryInstanceOnly
+0x00007FF699DF5398 (Unity) SerializableManagedRefTransfer::RestoreBackupImpl<SerializableManagedRefBackupGenerator>
+0x00007FF699DF5239 (Unity) SerializableManagedRefTransfer::RestoreBackup<SerializableManagedRefBackupGenerator>
+0x00007FF699E97A3A (Unity) SerializableManagedRefsUtilities::RestoreBackups
+0x00007FF699E0A224 (Unity) MonoManager::EndReloadAssembly
+0x00007FF699E11337 (Unity) MonoManager::ReloadAssembly
+0x00007FF69AB1CE31 (Unity) LoadDomainAndUserAssemblies
+0x00007FF69AB1D499 (Unity) LoadUserAssemblies
+0x00007FF69AD52EF8 (Unity) <lambda_42590b35a7504ca56990eaf6908bc2e2>::operator()
+0x00007FF69ADDB772 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)> >::do_complete
+0x00007FF69ADDD8D0 (Unity) asio::detail::win_iocp_io_service::do_one
+0x00007FF69ADE104E (Unity) asio::io_service::run
+0x00007FF69AD7CA7B (Unity) RunAssetImportWorkerClientV2
+0x00007FF69AD7CAD0 (Unity) RunAssetImporterV2
+0x00007FF69A8174A9 (Unity) Application::InitializeProject
+0x00007FF69AC77C72 (Unity) WinMain
+0x00007FF69C30944E (Unity) __scrt_common_main_seh
+0x00007FFDADB07034 (KERNEL32) BaseThreadInitThunk
+0x00007FFDAF1C2651 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/boomy/AppData/Local/Temp/Unity/Editor/Crashes

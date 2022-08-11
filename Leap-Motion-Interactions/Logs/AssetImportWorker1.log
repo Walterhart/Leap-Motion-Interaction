@@ -1,0 +1,427 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 32671 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/github/Leap-Motion-Interaction/Leap-Motion-Interactions
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+65353
+Successfully changed project path to: D:/github/Leap-Motion-Interaction/Leap-Motion-Interactions
+D:/github/Leap-Motion-Interaction/Leap-Motion-Interactions
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.29 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/github/Leap-Motion-Interaction/Leap-Motion-Interactions/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56784
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001214 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.00 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.434 seconds
+Domain Reload Profiling:
+	ReloadAssembly (434ms)
+		BeginReloadAssembly (56ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (328ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (98ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (134ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (62ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005644 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.82 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Domain Reload Profiling:
+	ReloadAssembly (872ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (715ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (213ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (298ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (183ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2722 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.6 MB.
+System memory in use after: 111.8 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3136.
+Total: 3.168000 ms (FindLiveObjects: 0.225100 ms CreateObjectMapping: 0.069800 ms MarkObjects: 2.792500 ms  DeleteObjects: 0.079800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/XRI
+  artifactKey: Guid(560f1355d0f3bb145b9e34900bc76c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XRI using Guid(560f1355d0f3bb145b9e34900bc76c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8232a9a763e10401c07dccbc8850b6c9') in 0.008246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.035587 seconds.
+  path: Packages/com.unity.inputsystem/package.json
+  artifactKey: Guid(f0e14ea80f96b445f97b1c83650d5733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/package.json using Guid(f0e14ea80f96b445f97b1c83650d5733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d3047d4a47d6f8ae723ce06970dfca') in 0.029860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.856250 seconds.
+  path: Packages/com.ultraleap.tracking.preview/package.json
+  artifactKey: Guid(dc54c4606ea06e94d96e5459e8ee6569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/package.json using Guid(dc54c4606ea06e94d96e5459e8ee6569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7638572c6e47b32f343b2303e304eb18') in 0.002003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.524560 seconds.
+  path: Packages/com.ultraleap.tracking.preview/AggregationProviders/Prefab/Aggregation Provider.prefab
+  artifactKey: Guid(d759ad44b80a7aa438131e312bab1b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/AggregationProviders/Prefab/Aggregation Provider.prefab using Guid(d759ad44b80a7aa438131e312bab1b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e90852d6b68a4ac62bc97e06ec51a5') in 0.024813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Service Provider (Screentop).prefab
+  artifactKey: Guid(ae56ec35d0bcbba49962ea56f2aaa0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Service Provider (Screentop).prefab using Guid(ae56ec35d0bcbba49962ea56f2aaa0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d177313a64867ab4ae0ee990556338') in 0.010199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Service Provider (XR).prefab
+  artifactKey: Guid(15d3b5cf5cea75344a4482323bc124a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Service Provider (XR).prefab using Guid(15d3b5cf5cea75344a4482323bc124a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec424c0cda68bb87812e25dcab92de61') in 0.013229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test 2 (Pose).prefab
+  artifactKey: Guid(c7982af5f21dd2d4594b08d35838f649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test 2 (Pose).prefab using Guid(c7982af5f21dd2d4594b08d35838f649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3735a32a1b35da23b63b6f5d4a224622') in 0.046031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Misc/FpsLabel.prefab
+  artifactKey: Guid(81a58ec9c7a7a4fababa39069949658f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Misc/FpsLabel.prefab using Guid(81a58ec9c7a7a4fababa39069949658f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a37fc38f871e0975b39d1cd924b30536') in 0.006991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/OutlineHands.prefab
+  artifactKey: Guid(1b43d6eb40db60b419700fd2677e79c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/OutlineHands.prefab using Guid(1b43d6eb40db60b419700fd2677e79c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e2add71960bfd5415895b63a6eb785') in 0.076466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Packages/com.ultraleap.tracking.preview/XRControllerSupport/ControllersAsHands/Runtime/ControllerPostProcessProvider.prefab
+  artifactKey: Guid(c3578bd76f7b2784faf4bf41b77663e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/XRControllerSupport/ControllersAsHands/Runtime/ControllerPostProcessProvider.prefab using Guid(c3578bd76f7b2784faf4bf41b77663e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a295c26f049ab3e4b7cf088b8f73ffd1') in 0.012775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsNonHuman/DebugHand.prefab
+  artifactKey: Guid(e98e2c2cadb464c9892b9e4d60d61f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsNonHuman/DebugHand.prefab using Guid(e98e2c2cadb464c9892b9e4d60d61f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39ef6e632c1a5e475d0e5f14d2b70a8') in 0.007372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/Distort Tracking Data.prefab
+  artifactKey: Guid(1ba06a717a05f0c42bd1bc0f8356feb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/Distort Tracking Data.prefab using Guid(1ba06a717a05f0c42bd1bc0f8356feb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'becdb9d6e71f7de080d53d632ae78f96') in 0.020493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Vive-style Controller (Left).prefab
+  artifactKey: Guid(80e9754fad44e784f97f6c76a2c7255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Vive-style Controller (Left).prefab using Guid(80e9754fad44e784f97f6c76a2c7255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb2fd14717c0c00dfbb73b76c7ffcbd') in 0.013565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/ThickRigidHand.prefab
+  artifactKey: Guid(d1ee2987e72174f659cdf5447ad5403c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/ThickRigidHand.prefab using Guid(d1ee2987e72174f659cdf5447ad5403c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37140e9bccbb7459437a0761441fcb06') in 0.008603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Packages/com.ultraleap.tracking.preview/UI Input/Runtime/Prefabs/UIInputEventSystem.prefab
+  artifactKey: Guid(8b10486b9212d9f4badcf6c992af0a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/UI Input/Runtime/Prefabs/UIInputEventSystem.prefab using Guid(8b10486b9212d9f4badcf6c992af0a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbac71157ca2b1d27e2f6b3d712bfa15') in 0.032569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/GenericHand_Arm.prefab
+  artifactKey: Guid(85bdae4f36eb5b14c9fac95aec79bf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/GenericHand_Arm.prefab using Guid(85bdae4f36eb5b14c9fac95aec79bf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4039ce1a2f1a6d740663fa5cec87ba20') in 0.015908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/GhostHands.prefab
+  artifactKey: Guid(e7e358565e530214c97adba8c82fedc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/GhostHands.prefab using Guid(e7e358565e530214c97adba8c82fedc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598d85d1ecf73831d978614f3f8ada27') in 0.017132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/SkeletonHands.prefab
+  artifactKey: Guid(fa1f99719015b5649bec3f061b234469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/SkeletonHands.prefab using Guid(fa1f99719015b5649bec3f061b234469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f42fa98d249142a3f767c8719b2698') in 0.017138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Packages/com.ultraleap.tracking.preview/XR Interaction Toolkit Integration/Runtime/FarFieldDirection.prefab
+  artifactKey: Guid(071415ff98e0a6a40b2581f51b99236b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/XR Interaction Toolkit Integration/Runtime/FarFieldDirection.prefab using Guid(071415ff98e0a6a40b2581f51b99236b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176a322affa91e0512e859889b131f7c') in 0.008190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Packages/com.ultraleap.tracking.preview/AggregationProviders/Resources/JointOcclusionPrefab.prefab
+  artifactKey: Guid(78b13dbce33bb8c4797e056b04d304f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/AggregationProviders/Resources/JointOcclusionPrefab.prefab using Guid(78b13dbce33bb8c4797e056b04d304f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0691fdb1de94c4c032d7991a0917109c') in 0.007892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Vive-style Controller (Right).prefab
+  artifactKey: Guid(72368278d054cda4bb18e5aa08ce971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Vive-style Controller (Right).prefab using Guid(72368278d054cda4bb18e5aa08ce971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6257c23d3f43be7a08137e0c982351') in 0.013056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Packages/com.ultraleap.tracking.preview/XR Interaction Toolkit Integration/Runtime/Tracked Hands Ultraleap.prefab
+  artifactKey: Guid(cbd3c8f502bd5d04f8610a21e14705a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/XR Interaction Toolkit Integration/Runtime/Tracked Hands Ultraleap.prefab using Guid(cbd3c8f502bd5d04f8610a21e14705a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714c954a4c5587ff1d5656e3fd5d10b6') in 0.032188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Oculus-style Controller (Left).prefab
+  artifactKey: Guid(40e809833d307ef4983e1e71fe56e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Oculus-style Controller (Left).prefab using Guid(40e809833d307ef4983e1e71fe56e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0a24d592dbea15fc1d7ff4e0652885') in 0.012887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Packages/com.ultraleap.tracking.openxr/Runtime/Prefabs/Service Provider (OpenXR).prefab
+  artifactKey: Guid(d774afbb462004749918d3e350ef43ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.openxr/Runtime/Prefabs/Service Provider (OpenXR).prefab using Guid(d774afbb462004749918d3e350ef43ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227d67619e698e81e60dda97b988a675') in 0.010740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test (Position).prefab
+  artifactKey: Guid(35d6d73573ae356469346dc430a03d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test (Position).prefab using Guid(35d6d73573ae356469346dc430a03d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25ba6d7c83012654de10367317e1830') in 0.010993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Attachment Hands.prefab
+  artifactKey: Guid(80001c6c93c5068488198a82e151e3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Attachment Hands.prefab using Guid(80001c6c93c5068488198a82e151e3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea3bfa12e6f637bdc78c947e7ae362fb') in 0.015336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidRoundHand_R.prefab
+  artifactKey: Guid(c8515ebee271c0649b9db1321f3026a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidRoundHand_R.prefab using Guid(c8515ebee271c0649b9db1321f3026a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66366de8435781c366d1057bfdb66137') in 0.007516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Oculus-style Controller (Right).prefab
+  artifactKey: Guid(9361ab6d13ee87644bc370bccb524144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/VR Oculus-style Controller (Right).prefab using Guid(9361ab6d13ee87644bc370bccb524144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f52761e5154d8fa1309f726da0c965') in 0.009159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Packages/com.ultraleap.tracking.preview/Android_XR2/Runtime/Prefabs/XR Rig - Android XR2.prefab
+  artifactKey: Guid(07a275cfbe0d42c478d269c0afc61d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/Android_XR2/Runtime/Prefabs/XR Rig - Android XR2.prefab using Guid(07a275cfbe0d42c478d269c0afc61d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec89f9ada9e7b205ca67c4700f65b263') in 0.006298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/Interaction Hand (Right).prefab
+  artifactKey: Guid(edcc5ee563218a84ab541a00a47ea5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/Interaction Hand (Right).prefab using Guid(edcc5ee563218a84ab541a00a47ea5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116265ee4e08c2184769e9669d8d15d1') in 0.009031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsNonHuman/Capsule Hand Right.prefab
+  artifactKey: Guid(39d18871c11b53c4082d8202e3db68a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsNonHuman/Capsule Hand Right.prefab using Guid(39d18871c11b53c4082d8202e3db68a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a665252d46e8950bd1622fbdefda33d') in 0.006748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidFullHand.prefab
+  artifactKey: Guid(f64990f14a4ef41e1aa0c2c8b5fbf1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidFullHand.prefab using Guid(f64990f14a4ef41e1aa0c2c8b5fbf1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f799708f89f03c9c5bac2b0c4c72c0b') in 0.006715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Service Provider (Desktop).prefab
+  artifactKey: Guid(b9c7aaf0d314cb847a3b2a20e893f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Service Provider (Desktop).prefab using Guid(b9c7aaf0d314cb847a3b2a20e893f1b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbba18d52a0fb9a7f522f11f9931a35b') in 0.006281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/CapsuleHands.prefab
+  artifactKey: Guid(8163655ae6e81f149b112acc9972a9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/CapsuleHands.prefab using Guid(8163655ae6e81f149b112acc9972a9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef70155b3230ef9b73c7d4fe85f94f0') in 0.006870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/Interaction Hand (Left).prefab
+  artifactKey: Guid(8b0fa35b4cedcf243b23166070e235ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Controllers/Interaction Hand (Left).prefab using Guid(8b0fa35b4cedcf243b23166070e235ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d61ac074cbeb3890a06fe7d7c87a514') in 0.006502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Manager.prefab
+  artifactKey: Guid(33edf201cbc6fe645ad9078697cd2aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Interaction Engine/Runtime/Prefabs/Interaction Manager.prefab using Guid(33edf201cbc6fe645ad9078697cd2aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb380b04c7da6fe3ab8bc23b7e581c7e') in 0.027801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsNonHuman/Capsule Hand Left.prefab
+  artifactKey: Guid(869d20cdda15af24aab9e72b5f2eec78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsNonHuman/Capsule Hand Left.prefab using Guid(869d20cdda15af24aab9e72b5f2eec78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b6d4f8619ad53e18a3410311ed2a26') in 0.006723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidRoundHand.prefab
+  artifactKey: Guid(dc02f2d83c1ac4b4d9b4ec82df1b1732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidRoundHand.prefab using Guid(dc02f2d83c1ac4b4d9b4ec82df1b1732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d8fe8fe4cfac9a0737e035d06bb5357') in 0.006619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidHand.prefab
+  artifactKey: Guid(4b359b2f0d7d14ef0a97b45ec153a3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidHand.prefab using Guid(4b359b2f0d7d14ef0a97b45ec153a3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c454ef0593d42f69e9ae8bdc809b6e1') in 0.007139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidRoundHand_L.prefab
+  artifactKey: Guid(23f2cce114628a448bfeaae171b4c0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModelsPhysical/RigidRoundHand_L.prefab using Guid(23f2cce114628a448bfeaae171b4c0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a0992df344e4afab89a12cca84e193') in 0.006849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModels.prefab
+  artifactKey: Guid(a4f31c9f6421beb42a81b0031924ff15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/HandModels.prefab using Guid(a4f31c9f6421beb42a81b0031924ff15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748deb46d293be7ad4b4238628f815ba') in 0.006746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e5402df3ba6997afeb4e074ac5eb80') in 0.009617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Image Retriever.prefab
+  artifactKey: Guid(a3493d19a55aa734daa24f35421a14d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Prefabs/Image Retriever.prefab using Guid(a3493d19a55aa734daa24f35421a14d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fd01b473eee89109e5c9e8e89f7ede') in 0.012646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Packages/com.ultraleap.tracking.preview/XRControllerSupport/ControllersAsHands/Runtime/ControllerPostProcessProvider Variant - Legacy Input System.prefab
+  artifactKey: Guid(00f77c4aeaa793a49a1d350a04e04c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking.preview/XRControllerSupport/ControllersAsHands/Runtime/ControllerPostProcessProvider Variant - Legacy Input System.prefab using Guid(00f77c4aeaa793a49a1d350a04e04c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e776f3de67c87f56c70cb91a10cbcda') in 0.007586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/LowPolyHands.prefab
+  artifactKey: Guid(1d338fed0ed7df84a86c220153fbcc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Hands/Runtime/Prefabs/LowPolyHands.prefab using Guid(1d338fed0ed7df84a86c220153fbcc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab64caf1ab98a383d800a7a430a1162') in 0.021532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.691203 seconds.
+  path: Packages/com.ultraleap.tracking/Core
+  artifactKey: Guid(65c212c4946dc3e468617b1a0ca747ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core using Guid(65c212c4946dc3e468617b1a0ca747ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95672679503929d34b4ffc2a6d410289') in 0.004828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.981767 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime
+  artifactKey: Guid(3d22e664c5b144048ab6b2b2419f2b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime using Guid(3d22e664c5b144048ab6b2b2419f2b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244c150eef52be3f0b4dd1b4b1c4811f') in 0.016021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065827 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Package.asset
+  artifactKey: Guid(828092ac76618d349a96555173177a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Package.asset using Guid(828092ac76618d349a96555173177a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e869cf2fe285edbbebd2e9a87d75ac83') in 0.006457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Packages/com.ultraleap.tracking/Core/Runtime/Ultraleap.Tracking.Core.asmdef
+  artifactKey: Guid(cec9848704c49724192ff47f9b3e9156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ultraleap.tracking/Core/Runtime/Ultraleap.Tracking.Core.asmdef using Guid(cec9848704c49724192ff47f9b3e9156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abeb8c84b2502c00e4ff1cb2a691eb79') in 0.005204 seconds 
