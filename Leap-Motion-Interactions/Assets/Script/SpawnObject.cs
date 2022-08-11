@@ -5,24 +5,32 @@ using UnityEngine;
 public class SpawnObject : MonoBehaviour
 {
     public GameObject spawnObject;
-    public int spawnCount = 0;
-    public bool spawning = false;
-
+    public int maxAmountOfObjects;
+    public List<GameObject> objectList = new List<GameObject>();
+    private float timeLeft, originalTime;
     // Update is called once per frame
     void Update()
     {
         
-            if (spawnCount <= 3)
-            {
-                Spawn(spawnCount);
-                spawnCount += 1;
-            }
+        timeLeft -= Time.deltaTime;
         
+        if(timeLeft <= 0)
+        {
+           
+            timeLeft = originalTime;
+            Spawn();
+        }
+    
     }
 
-    void Spawn(int spawnCount)
+    void Spawn()
     {
-        Instantiate(spawnObject);   
+        if(objectList.Count < maxAmountOfObjects)
+        {
+            objectList.Add(Instantiate(spawnObject));
+            Debug.Log("SpawnCount : " + objectList);
+        }
+        
     }
 
 }

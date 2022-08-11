@@ -14,8 +14,8 @@ GameObject:
   - component: {fileID: 4058656200435170185}
   - component: {fileID: 8949225879964617384}
   m_Layer: 0
-  m_Name: Dice_d6_Plastic Glossy Pure blue
-  m_TagString: Untagged
+  m_Name: BlueDice
+  m_TagString: SpawnObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
