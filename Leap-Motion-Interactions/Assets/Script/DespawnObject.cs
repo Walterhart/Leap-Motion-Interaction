@@ -7,12 +7,7 @@ public class DespawnObject : MonoBehaviour
 
     private GameObject[] spawnedObject;
     public GameObject despawnerSetActive;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
+    
     // Update is called once per frame
     void Update()
     {
@@ -29,7 +24,9 @@ public class DespawnObject : MonoBehaviour
 
             for (int i = 0; i < spawnedObject.Length; i++)
             {
-                Destroy(spawnedObject[i].gameObject);
+
+                Destroy(spawnedObject[i]);
+                Debug.Log("Delete");
             }
 
            
