@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Buttons.unity
+    guid: cca654fcbf487ac40b2b8eaa581451c8
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f19cc40d0bb1813449a65e1a54e924e1, type: 2}
